@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a64dd48-290c-4d14-824e-cd5b71be6b9b" name="Changes" comment="Part 2 Custom Widgets - Exercise 4 (different pens and brushes)">
-      <change afterPath="$PROJECT_DIR$/MouseEvents.py" afterDir="false" />
+    <list default="true" id="3a64dd48-290c-4d14-824e-cd5b71be6b9b" name="Changes" comment="Part 2 Custom Widgets - Exercise 5 (drawing on a mouse click)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MouseEvents.py" beforeDir="false" afterPath="$PROJECT_DIR$/MouseEvents.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="CW-Exercise4" />
+        <entry key="$PROJECT_DIR$" value="CW-Exercise5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,7 +56,7 @@
     "Python.PolyMorphism.executor": "Run",
     "Python.py_match.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "CW-Exercise5",
+    "git-widget-placeholder": "CW-Exercise6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729070157796</updated>
       <workItem from="1729070159148" duration="4883000" />
-      <workItem from="1729190920208" duration="2258000" />
+      <workItem from="1729190920208" duration="3200000" />
     </task>
     <task id="LOCAL-00001" summary="Pythons match statement">
       <option name="closed" value="true" />
@@ -157,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729192828464</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Part 2 Custom Widgets - Exercise 5 (drawing on a mouse click)">
+      <option name="closed" value="true" />
+      <created>1729193342020</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729193342020</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,11 +181,12 @@
     <MESSAGE value="Part 2 Custom Widgets - Exercise 2 (rectangle and line)" />
     <MESSAGE value="Part 2 Custom Widgets - Exercise 3 (custom shapes)" />
     <MESSAGE value="Part 2 Custom Widgets - Exercise 4 (different pens and brushes)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Part 2 Custom Widgets - Exercise 4 (different pens and brushes)" />
+    <MESSAGE value="Part 2 Custom Widgets - Exercise 5 (drawing on a mouse click)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 2 Custom Widgets - Exercise 5 (drawing on a mouse click)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$py_match.coverage" NAME="py_match Coverage Results" MODIFIED="1729070466932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$MouseEvents.coverage" NAME="MouseEvents Coverage Results" MODIFIED="1729193194115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$MouseEvents.coverage" NAME="MouseEvents Coverage Results" MODIFIED="1729194143439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$CustomWidgets.coverage" NAME="CustomWidgets Coverage Results" MODIFIED="1729192780752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$PolyMorphism.coverage" NAME="PolyMorphism Coverage Results" MODIFIED="1729075488970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
